@@ -9,5 +9,6 @@
     <dimen name="fab_margin">24dp</dimen>
     
     <dimen name="init_scroll_distance_up">200dp</dimen>
+    <dimen name="appbar_elevation">8dp</dimen>
 
 </resources>
